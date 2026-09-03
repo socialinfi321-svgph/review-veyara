@@ -1,0 +1,6 @@
+{
+  "name": "Citykart Experience",
+  "description": "Customer experience capture system that helps customers describe their genuine shopping experience through taps and generates 2-3 natural Google review drafts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
